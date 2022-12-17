@@ -1,4 +1,4 @@
-#SOURCE BY : AWAIS TAHIR
+#SOURCE CODE BY : Mr-Qureshi 
 
 from os import path
 import os,base64,zlib,pip,urllib
